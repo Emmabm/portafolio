@@ -33,7 +33,7 @@ export function Hero() {
 
           {/* ✅ DESCARGA REAL DE PDF */}
           <a
-            href="/cv-Emmanuel-Bustos.pdf"
+            href="emmanuel-bustos-cv.pdf"
             download="Emmanuel_Bustos_CV.pdf"
             className="px-8 py-4 bg-gradient-to-r from-blue-600 to-emerald-600 text-white rounded-full font-semibold flex items-center gap-2 hover:shadow-2xl hover:scale-105 transition-all duration-300"
           >
